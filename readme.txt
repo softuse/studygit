@@ -2,4 +2,5 @@ study git
 
 test git modify second
 
-add three
+add1
+add2
